@@ -1,4 +1,4 @@
-Created by Alexander Evans (a8evans@ucsd.edu)
+Created by Alexander Evans (a8evans@ucsd.edu)  
 Section D39 - Arya Mazumdar
 # Questions
 **Question 1: What is the most interesting topic covered in your domain this quarter?**
